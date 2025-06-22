@@ -13,3 +13,5 @@ C:\Users\123\source\repos\WpfApp4\WpfApp4\obj\Debug\WpfApp4.csproj.GenerateResou
 C:\Users\123\source\repos\WpfApp4\WpfApp4\obj\Debug\WpfApp4.csproj.CoreCompileInputs.cache
 C:\Users\123\source\repos\WpfApp4\WpfApp4\obj\Debug\WpfApp4.exe
 C:\Users\123\source\repos\WpfApp4\WpfApp4\obj\Debug\WpfApp4.pdb
+C:\Users\123\source\repos\WpfApp4\WpfApp4\obj\Debug\Window1.g.cs
+C:\Users\123\source\repos\WpfApp4\WpfApp4\obj\Debug\Window1.baml
